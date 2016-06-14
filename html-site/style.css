@@ -1,0 +1,65 @@
+body {
+  background-color: #ccccff;
+}
+
+h1 {
+  color: #000099;
+  text-align: center;
+  font-size: 60px;
+  font-family: "Georgia", Arial, sans-serif;
+}
+
+h2 {
+  color: #000099;
+  text-align:  center;
+  font-family: "Georgia", Arial, sans-serif;
+}
+
+h3 {
+  color: #000099;
+  text-align:  center;
+  font-family: "Georgia", Arial, sans-serif;
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  border: 6px solid black;
+  border-radius: 25px;
+}
+
+p {
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+}
+p em {
+  color: red;
+}
+
+p strong {
+  color: red;
+}
+
+li a {
+  color: blue;
+}
+
+footer {
+  text-align: center;
+}
+
+.warning {
+  color: red;
+  text-align: center;
+  font-style: italic;
+}
+
+#copyright {
+  color: teal;
+  font-weight: bold;
+  text-align: center;
+}
+
