@@ -1,5 +1,22 @@
-body {
-  background-color: #ccccff;
+p strong {
+  color:red;
+}
+
+p em {
+  color:red;
+}
+
+p {
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  border: 6px solid black;
+  border-radius: 25px;
 }
 
 h1 {
@@ -21,28 +38,6 @@ h3 {
   font-family: "Georgia", Arial, sans-serif;
 }
 
-div {
-  text-align: center;
-}
-
-img {
-  border: 6px solid black;
-  border-radius: 25px;
-}
-
-p {
-  font-family: "Helvetica", Arial, sans-serif;
-}
-
-}
-p em {
-  color: red;
-}
-
-p strong {
-  color: red;
-}
-
 li a {
   color: blue;
 }
@@ -61,5 +56,9 @@ footer {
   color: teal;
   font-weight: bold;
   text-align: center;
+}
+
+body {
+  background: url("./images/background.jpg") #cccccc;
 }
 
